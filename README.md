@@ -241,7 +241,7 @@ YOLOv8 is available under two different licenses:
 
 ## <div align="center">Contact</div>
 
-For YOLOv8 bug reports and feature requests please visit [GitHub Issues](https://github.com/ultralytics/ultralytics/issues), and join our [Discord](https://discord.gg/bNc8wwx7Qy) community for questions and discussions!
+For YOLOv8 bug reports and feature requests please visit [GitHub Issues](https://github.com/ultralytics/ultralytics/issues), and join our [Discord](https://discord.gg/zTfhrnt9mc) community for questions and discussions!
 
 <br>
 <div align="center">
@@ -263,6 +263,6 @@ For YOLOv8 bug reports and feature requests please visit [GitHub Issues](https:/
   <a href="https://www.instagram.com/ultralytics/" style="text-decoration:none;">
     <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-instagram.png" width="3%" alt="" /></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="" />
-  <a href="https://discord.gg/bNc8wwx7Qy" style="text-decoration:none;">
+  <a href="https://discord.gg/zTfhrnt9mc" style="text-decoration:none;">
     <img src="https://github.com/ultralytics/assets/blob/main/social/logo-social-discord.png" width="3%" alt="" /></a>
 </div>
